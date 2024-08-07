@@ -15,6 +15,9 @@
 ### Back-end
 ![Backend](https://skillicons.dev/icons?i=nestjs,express,spring)
 
+### Front-end
+![Frontend](http://skillicons.dev/icons?i=nextjs,vite,react,styledcomponents,scss,tailwind)
+
 ### Databases
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,sqlite)
 
