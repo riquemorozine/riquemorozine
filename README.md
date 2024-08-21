@@ -10,7 +10,7 @@
 </div>
 
 ### Linguagens de programação
-![Linguagens de programação](https://skillicons.dev/icons?i=ts,java,python)
+![Linguagens de programação](https://skillicons.dev/icons?i=ts,java,python,go)
 
 ### Back-end
 ![Backend](https://skillicons.dev/icons?i=nestjs,express,spring)
