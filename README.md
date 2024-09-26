@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=62F729&width=435&lines=Ol%C3%A1+meu+nome+%C3%A9+Rique+Morozine)](https://git.io/typing-svg)
 
-* 👜 Atualmente aberto para oportunidades.
-
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riquemorozine&show_icons=true&count_private=true&hide_border=true&title_color=62F729FF&icon_color=62F729FF&text_color=ffff&bg_color=0d1117"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquemorozine&layout=compact&langs_count=7&count_private=true&title_color=62F729FF&icon_color=62F729FF&text_color=ffff&bg_color=0d1117&hide_border=true"/>
@@ -13,7 +11,7 @@
 ![Linguagens de programação](https://skillicons.dev/icons?i=ts,java,python,go)
 
 ### Back-end
-![Backend](https://skillicons.dev/icons?i=nestjs,express,spring)
+![Backend](https://skillicons.dev/icons?i=nestjs,express,spring,fastify)
 
 ### Front-end
 ![Frontend](http://skillicons.dev/icons?i=nextjs,vite,react,styledcomponents,scss,tailwind)
